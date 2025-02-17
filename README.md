@@ -10,10 +10,22 @@ It was the last one in the box that was alive. So the journey began.
 I've ended up finding a lot of schematics and information, but most of it was related to using Arduino which for me was just a big "Ehh!". 
 I found a few blog posts which helped me to design the device to be dependent on the power supply only (credits on the end of the page).
 
+## Pinout
+
+| PIN  | AVR | HVSP |
+| ------------- | ------------- | ------------- |
+| 1 | PC5 | **12V / RST** |
+| 2 | PC0 | **SDI** |
+| 3 | PC1 | **SII** |
+| 4 | PC2 | **SDO** |
+| 5 | PC3 | **SCI** |
+| 6 | PC4 | **5V / VCC** |
+| 7 | GND | **GND** |
+
 ## Schematics
 ![Schematic](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/schematic.png "Schematic")
 
-## Board prototype of v1
+## Board prototype of V1
 ![PCB](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/board.png "PCB")
 
 Please note that the main.sch has additional sheet containing the mounting pads and connectors not shown in the schematics diagram above. They are there, but feel free to change them to make your own design (I've used one of those power supplies for external SATA disk drive readers that provide 5 and 12 volts simultaneously (DIN6)). 
