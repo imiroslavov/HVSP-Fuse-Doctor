@@ -18,4 +18,4 @@ I found a few blog posts which helped me to design the device to be dependent on
 
 Please note that the main.sch has additional sheet containing the mounting pads and connectors not shown in the schematics diagram above. They are there, but feel free to change them to make your own design (I've used one of those power supplies for external SATA disk drive readers that provide 5 and 12 volts simultaneously (DIN6)). 
 
-Thanks to Peter Fleury at http://www.peterfleury.epizy.com/ for the original schematics and code. I've changed it of couruse but it is based on his work.
+Thanks to Peter Fleury at http://www.peterfleury.epizy.com/ for the original schematics and code. I've changed it of course but it is based on his work.
