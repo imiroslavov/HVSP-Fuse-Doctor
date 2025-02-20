@@ -26,7 +26,7 @@ I found a few blog posts which helped me to design the device to be dependent on
 ![Schematic](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/schematic.png "Schematic")
 
 ## Board prototype Version 1 (dual power supply)
-|                                                    Board View                                                    |                                                            Illustration                                                             |
+|                                                   Bottom layer                                                   |                                                              Top view                                                               |
 |:----------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
 | ![PCB](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/v1/board.png "PCB") | ![Fritzing](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/v1/fritzing_board.png "Fritzing") |
 
