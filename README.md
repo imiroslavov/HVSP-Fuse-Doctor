@@ -23,6 +23,8 @@ I found a few blog posts which helped me to design the device to be dependent on
 | 7 | GND | **GND** |
 
 ## Schematics
+This is the base schematic. Version 2 contains additional header connected to PD1 and GND which is used for RS232 communication and can be omitted. Thus the connector it's not shown here because it is optional.
+
 ![Schematic](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/schematic.png "Schematic")
 
 ## Board prototype Version 1 (dual power supply)
