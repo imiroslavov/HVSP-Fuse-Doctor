@@ -26,9 +26,9 @@ I found a few blog posts which helped me to design the device to be dependent on
 ![Schematic](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/schematic.png "Schematic")
 
 ## Board prototype Version 1 (dual power supply)
-|                                                   Bottom layer                                                   |                                                              Top view                                                               |
-|:----------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
-| ![PCB](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/v1/board.png "PCB") | ![Fritzing](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/v1/fritzing_board.png "Fritzing") |
+|                                                    Bottom layer                                                    |                                                              Top view                                                               |
+|:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| ![Eagle](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/v1/eagle.png "Eagle") | ![Fritzing](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/v1/fritzing.png "Fritzing") |
 
 Please note that the main.sch has additional sheet containing the mounting pads and connectors not shown in the schematics diagram above. They are there, but feel free to change them to make your own design (I've used one of those power supplies for external SATA disk drive readers that provide 5 and 12 volts simultaneously (DIN6)). 
 
