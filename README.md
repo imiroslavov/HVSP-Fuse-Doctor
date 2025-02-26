@@ -35,6 +35,6 @@ This is the base schematic. Version 2 contains additional header connected to PD
 Please note that the main.sch has additional sheet containing the mounting pads and connectors not shown in the schematics diagram above. They are there, but feel free to change them to make your own design (I've used one of those power supplies for external SATA disk drive readers that provide 5 and 12 volts simultaneously (DIN6)). 
 
 ## Notes
-If the system still does not answer for a simple ISP programmer, that means it has damaged hardware SPI, other damage or bad EEPROM.
+If the system still does not answer for a simple ISP programmer, that means the MCU has damaged hardware SPI, other damage or bad EEPROM.
 
 Thanks to Peter Fleury at http://www.peterfleury.epizy.com/ for the original schematics and code. I've changed it of course but it is based on his work.
