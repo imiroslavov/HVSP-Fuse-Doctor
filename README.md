@@ -27,7 +27,7 @@ This is the base schematic. Version 2 contains additional header connected to PD
 
 ![Schematic](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/schematic.png "Schematic")
 
-## Board prototype Version 1 (dual power supply)
+## Board prototype v1 (dual power supply 5V/12V)
 |                                                    Bottom layer                                                    |                                                              Top view                                                               |
 |:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
 | ![Eagle](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/v1/eagle.png "Eagle") | ![Fritzing](https://raw.githubusercontent.com/imiroslavov/HVSP-Fuse-Doctor/refs/heads/main/assets/v1/fritzing.png "Fritzing") |
